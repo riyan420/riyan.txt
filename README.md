@@ -1,4 +1,8 @@
+$ rm -rf riyan.txt
+
+
 $ git clone https://github.com/riyan420/riyan.txt
+
 
 
 $ cd riyan.txt
